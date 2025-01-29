@@ -1,0 +1,62 @@
+{
+    "topics": {
+        "Parcial 1": {
+            "subtopics": {
+                "Agua y Sistemas Buffer": {
+                    "questions": [
+                        {
+                            "question": "Agua",
+                            "imageURL": "",
+                            "answer": "Aceite",
+                            "imageanswerURL": ""
+                        }
+                    ]
+                },
+                "Fundamentos ácido base y aplicaciones médicas": {
+                    "questions": [
+                        {
+                            "question": "",
+                            "imageURL": "",
+                            "answer": "b",
+                            "imageanswerURL": ""
+                        }
+                    ]
+                },
+                "Aminoácidos, estructura y modificaciones postraduccionales": {
+                    "questions": [
+                        {
+                            "question": "",
+                            "imageURL": "",
+                            "answer": "b",
+                            "imageanswerURL": ""
+                        }
+                    ]
+                }
+            }
+        },
+        "Parcial 2:": {
+            "subtopics": {
+                "Mioglobina": {
+                    "questions": [
+                        {
+                            "question": "",
+                            "imageURL": "",
+                            "answer": "b",
+                            "imageanswerURL": ""
+                        }
+                    ]
+                },
+                "Hemoglobina": {
+                    "questions": [
+                        {
+                            "question": "",
+                            "imageURL": "",
+                            "answer": "b",
+                            "imageanswerURL": ""
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
