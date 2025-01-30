@@ -9,6 +9,18 @@
                             "imageURL": "",
                             "answer": "Aceite",
                             "imageanswerURL": ""
+                        },
+                        {
+                            "question": "Roca",
+                            "imageURL": "",
+                            "answer": "Aire",
+                            "imageanswerURL": ""
+                        },
+                        {
+                            "question": "Tomate",
+                            "imageURL": "",
+                            "answer": "Fruta",
+                            "imageanswerURL": ""
                         }
                     ]
                 },
