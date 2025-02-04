@@ -5,23 +5,59 @@
                 "Hombro y Axila": {
                     "questions": [
                         {
+                            "question": "Mencione que nervios constituyen el plexo braquial",
+                            "imageURL": "",
+                            "answer": "C5<br>C6<br>C7<br>C8<br>T1",
+                            "imageanswerURL": ""
+                        },
+                        {
+                            "question": "Cita los músculos que nacen por un tendón común en la apófisis coracoides del omóplato",
+                            "imageURL": "",
+                            "answer": "Coracobraquial<br>Porción corta del bíceps braquial",
+                            "imageanswerURL": ""
+                        },
+                        {
                             "question": "Cita los músculos del manguito rotador",
                             "imageURL": "",
                             "answer": "Supraespinoso<br>Infraespinoso<br>Redondo menor<br>Subescapular",
                             "imageanswerURL": ""
                         },
                         {
-                            "question": "Roca",
+                            "question": "¿Cuál son los músculos encargados de separar la articulación escapulo-humeral?",
                             "imageURL": "",
-                            "answer": "Aire",
+                            "answer": "Supraespinoso<br>Deltoides",
                             "imageanswerURL": ""
                         },
                         {
-                            "question": "Tomate",
+                            "question": "Escriba el origen de la Vena Axilar",
                             "imageURL": "",
-                            "answer": "Fruta",
+                            "answer": "Vena Humeral<br>Vena Basílica",
                             "imageanswerURL": ""
-                        }
+                        },
+                        {
+                            "question": "Escriba los grupos ganglionares de la axila",
+                            "imageURL": "",
+                            "answer": "1- Braquial (lateral)<br>2- Subescapular (posterior)<br>3- Pectoral (anterior)<br>4- Central<br>5- Apical",
+                            "imageanswerURL": ""
+                        },
+                        {
+                            "question": "¿Dónde se encuentra el nervio radial a nivel del brazo?",
+                            "imageURL": "",
+                            "answer": "Canal de torsión o surco del nervio radial",
+                            "imageanswerURL": ""
+                        },
+                        {
+                            "question": "Paquete VN Braquial",
+                            "imageURL": "",
+                            "answer": "Arteria Humeral<br>Venas Humerales<br>Nervio Mediano",
+                            "imageanswerURL": ""
+                        },
+                        {
+                            "question": "Límites del conducto braquial",
+                            "imageURL": "",
+                            "answer": "<strong>Adelante:</strong> Fascia del brazo<br><strong>Atrás y arriba:</strong> Cabeza medial del triceps braquial, tapizada por el tabique intermuscular medial. Por encima el braquial anterior<br><strong>Externo:</strong> Coracobraquial y biceps braquial",
+                            "imageanswerURL": ""
+                        },
                     ]
                 },
                 "Fundamentos ácido base y aplicaciones médicas": {
